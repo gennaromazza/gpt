@@ -1,0 +1,21 @@
+{
+  "name": "instavogue",
+  "version": "1.0.0",
+  "description": "Web app prototype with Firebase configuration for Instavogue project.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "lint": "echo \"No linting configured\""
+  },
+  "keywords": [
+    "firebase",
+    "vision",
+    "instagram",
+    "story"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^10.13.1"
+  }
+}
